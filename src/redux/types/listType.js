@@ -1,0 +1,4 @@
+export const PLAYLISTS_LIST = 'PLAYLISTS_LIST';
+export const PRACTICE_QUIZZES_LIST = 'PRACTICE_QUIZZES_LIST';
+export const VIDEOS_LIST = 'VIDEOS_LIST';
+export const IS_SUCCESS = 'IS_SUCCESS';
